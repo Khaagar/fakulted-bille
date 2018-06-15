@@ -22,6 +22,7 @@ namespace abyNa3.UnitTests
 
         public void FillData(List<T> data)
         {
+            userMock.Clear();
             userMock.AddRange(data);
         }
     }

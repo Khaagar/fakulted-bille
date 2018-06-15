@@ -28,8 +28,7 @@ namespace abyNa3.Web.Controllers
                 {
                     Id = u.Id,
                     UserName = u.UserName,
-                    Email = u.Email,
-                    Password = u.Password
+                    Email = u.Email
                 };
                 model.Add(user);
             });
