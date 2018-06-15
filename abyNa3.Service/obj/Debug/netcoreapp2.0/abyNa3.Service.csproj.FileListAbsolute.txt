@@ -1,0 +1,14 @@
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Service.deps.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Service.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.csproj.CoreCompileInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.AssemblyInfoInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.AssemblyInfo.cs
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Service.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Data.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Repo.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Data.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\bin\Debug\netcoreapp2.0\abyNa3.Repo.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.csprojResolveAssemblyReference.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.csproj.CopyComplete
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Service\obj\Debug\netcoreapp2.0\abyNa3.Service.pdb

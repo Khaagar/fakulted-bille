@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\abyNa3.Data\abyNa3.Data.csproj" />
+    <ProjectReference Include="..\abyNa3.Repo\abyNa3.Repo.csproj" />
+    <ProjectReference Include="..\abyNa3.Service\abyNa3.Service.csproj" />
+  </ItemGroup>
+
+</Project>

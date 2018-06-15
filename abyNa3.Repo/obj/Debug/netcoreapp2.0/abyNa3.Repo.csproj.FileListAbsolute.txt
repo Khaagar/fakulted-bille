@@ -1,0 +1,12 @@
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\bin\Debug\netcoreapp2.0\abyNa3.Repo.deps.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\bin\Debug\netcoreapp2.0\abyNa3.Repo.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.csprojResolveAssemblyReference.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.csproj.CoreCompileInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.AssemblyInfoInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.AssemblyInfo.cs
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\bin\Debug\netcoreapp2.0\abyNa3.Repo.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\bin\Debug\netcoreapp2.0\abyNa3.Data.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\bin\Debug\netcoreapp2.0\abyNa3.Data.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.csproj.CopyComplete
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Repo\obj\Debug\netcoreapp2.0\abyNa3.Repo.pdb

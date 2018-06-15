@@ -1,0 +1,9 @@
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\bin\Debug\netcoreapp2.0\abyNa3.Data.deps.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\bin\Debug\netcoreapp2.0\abyNa3.Data.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.csprojResolveAssemblyReference.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.csproj.CoreCompileInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.AssemblyInfoInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.AssemblyInfo.cs
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\bin\Debug\netcoreapp2.0\abyNa3.Data.pdb
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3.Data\obj\Debug\netcoreapp2.0\abyNa3.Data.pdb

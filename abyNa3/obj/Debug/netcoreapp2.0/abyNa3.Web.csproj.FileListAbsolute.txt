@@ -1,0 +1,8 @@
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\bin\Debug\netcoreapp2.0\abyNa3.Web.deps.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\bin\Debug\netcoreapp2.0\abyNa3.Web.runtimeconfig.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\bin\Debug\netcoreapp2.0\abyNa3.Web.runtimeconfig.dev.json
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\bin\Debug\netcoreapp2.0\abyNa3.Web.dll
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\obj\Debug\netcoreapp2.0\abyNa3.Web.csprojResolveAssemblyReference.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\obj\Debug\netcoreapp2.0\abyNa3.Web.csproj.CoreCompileInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\obj\Debug\netcoreapp2.0\abyNa3.Web.AssemblyInfoInputs.cache
+C:\Users\rszok\Documents\Visual Studio 2017\Projects\abyNa3\abyNa3\obj\Debug\netcoreapp2.0\abyNa3.Web.AssemblyInfo.cs
